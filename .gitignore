@@ -1,0 +1,20 @@
+# Student outputs and private context must never enter distribution.
+/trading/**
+!/trading/README.md
+/context/**
+!/context/README.md
+/wikis/**
+/investment-brains/**
+/strategies/**
+/dist/
+/.test-output/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.sqlite3
+*.log
+node_modules/
+.venv/

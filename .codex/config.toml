@@ -1,0 +1,3 @@
+# Project-local only. Model, permissions, MCP and credentials stay with the host.
+[agents]
+enabled = true

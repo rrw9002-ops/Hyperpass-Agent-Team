@@ -1,0 +1,19 @@
+Hyperpass Agent Team — Research Edition
+Copyright 2026 Hyperpass Agent Team contributors
+
+This product includes adapted research instructions and methods from TradingCodex.
+Copyright 2026 TradingCodex Authors.
+Upstream: https://github.com/moneybuilderjay-cmyk/Hyperpass-Tradingagent
+Commit: a15871c922870f9803f819d9b994888ec81eabc1 (TradingCodex 2.1.3)
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+Changes: a separate research-only native Codex distribution; current custom-agent
+configuration; file-native research records instead of service-authenticated
+records; no broker/account/order/approval functionality; Korean student onboarding.
+The original software's security, execution and provenance guarantees are not
+claimed for this edition. Upstream instructions are archived for attribution and
+comparison, not executed as configuration.
+
+TradingCodex names and marks belong to their respective owners. No trademark
+license, endorsement, or affiliation is implied. Student-created research and
+private records are the student's content and are excluded from releases.
